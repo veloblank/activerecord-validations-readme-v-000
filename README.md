@@ -24,7 +24,7 @@ What is a "validation"?
 
 In the context of Rails, validations are special method calls that go at the top of model class definitions and prevent them from being saved to the database if their data doesn't look right.
 
-In general, "validations" are any code that perform the job of protecting the database from invalid code.
+In general, "validations" are any code that perform the job of protecting the database from invalid data.
 
 ## AR Validations Are Not Database Validations
 
